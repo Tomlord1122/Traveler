@@ -47,10 +47,11 @@ docker compose up -d
 7. Open http://localhost:3000 in your browser
 
 ## Features
-
-###登入畫面
+### 登入畫面
 <img width="1116" alt="image" src="https://github.com/Tomlord1122/Traveler/assets/79390871/ad591a60-e1d3-4508-aaa9-ca33d7772524">
-###系統畫面
+
+
+### 系統畫面
 <img width="1174" alt="image" src="https://github.com/Tomlord1122/Traveler/assets/79390871/3fb1a457-e6f4-421b-b404-7cc56caa3b09">
 
 
@@ -62,4 +63,4 @@ docker compose up -d
 5. 在這邊可以查看行程並且可以重新編輯
 6. 可以分享給你的好友並且可以同步即時編輯
 7. 最後可以輸出到你的Google Calender
-````
+
