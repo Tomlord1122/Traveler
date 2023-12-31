@@ -50,6 +50,13 @@ docker compose up -d
 
 ## Features
 
+###登入畫面
+<img width="1116" alt="image" src="https://github.com/Tomlord1122/Traveler/assets/79390871/ad591a60-e1d3-4508-aaa9-ca33d7772524">
+###系統畫面
+<img width="1174" alt="image" src="https://github.com/Tomlord1122/Traveler/assets/79390871/3fb1a457-e6f4-421b-b404-7cc56caa3b09">
+
+
+
 1. 可以新增Plan
 2. 在這裡可以選擇要編輯的Plan
 3. 之後還是可以修改Plan的name以及description
