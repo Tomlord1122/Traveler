@@ -1,8 +1,6 @@
-# Web Programming #HW4
 
 ## Run the project
 
-**_Modified from Notion Clone_**
 
 1. Install dependencies
    ```bash
@@ -16,7 +14,7 @@
 
 3. Create `.env.local` file in the project root and add the following content:
 
-````
+```
 POSTGRES_URL=postgres://postgres:postgres@localhost:5432/traveler
 
 PUSHER_ID=
